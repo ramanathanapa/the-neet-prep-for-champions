@@ -1,4 +1,6 @@
 __pycache__/
 *.duckdb
 *.duckdb.wal
-downloads/
+# keep the downloads/<year>/ folders as placeholders, but never commit what is inside them (copyrighted PDFs)
+downloads/*/*
+!downloads/*/.gitkeep

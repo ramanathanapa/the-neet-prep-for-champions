@@ -41,7 +41,8 @@ affected by CSV changes.
 
 ## Local PDF copies
 
-The PDFs are copyrighted by their publishers, so `downloads/` is **not** in this repository. To use local copies,
+The PDFs are copyrighted by their publishers, so this repository contains **no PDFs or other publisher content**, only empty
+placeholder folders (`downloads/2024/`, `downloads/2025/`, `downloads/2026/`) and links. To use local copies,
 download the PDFs yourself from the `url` column and save them under `downloads/` using the names in the `file` column.
 Rows without a local file simply link to the original site. Keep any copies for your own practice and do not
 redistribute them.
